@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "CHAT",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "You can check the guideline to see more details."
+    "description": "You can check and chat with your customers in this page."
   }
 }
